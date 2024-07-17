@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<yml_catalog date="2024-07-17T20:58:07+03:00">
+<shop>
+<name>Блеск</name>
+<url>https://blesk-cleaning.com/</url>
+<platform></platform>
+<categories>
+  <category id="1">Все товары</category>
+</categories>
+  <offers>
+      <offer id="1">
+        <name>Поддерживающая уборка</name>
+        <description>Поддерживающая уборка</description>
+        <url>https://blesk-cleaning.com/podderzhivayushchaya</url>
+        <price>от 1890</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://optim.tildacdn.com/tild6331-3461-4663-b531-396638643937/-/resize/905x/-/format/webp/photo.jpg</picture>
+      </offer>
+      <offer id="2">
+        <name>Генеральная уборка</name>
+        <description>Генеральная уборка</description>
+        <url>https://blesk-cleaning.com/geniralnay</url>
+        <price>от 5980</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://optim.tildacdn.com/tild3661-3461-4534-a464-653837356136/-/resize/760x/-/format/webp/photo.jpg</picture>
+      </offer>
+      <offer id="3">
+        <name>Уборка после ремонта</name>
+        <description>Уборка после ремонта</description>
+        <url>https://blesk-cleaning.com/posle_remonta</url>
+        <price>от 8890</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://optim.tildacdn.com/tild3364-3131-4063-b665-623535616430/-/resize/905x/-/format/webp/_.jpg</picture>
+      </offer>
+      <offer id="4">
+        <name>Химчистка</name>
+        <description>Химчистка</description>
+        <url>https://blesk-cleaning.com/himchistka</url>
+        <price>от 2990</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://optim.tildacdn.com/tild3933-3833-4561-a635-626664393661/-/resize/905x/-/format/webp/photo.jpg</picture>
+      </offer>
+      <offer id="5">
+        <name>Уборка домов</name>
+        <description>Уборка домов</description>
+        <url>https://blesk-cleaning.com/zagorod</url>
+        <price>от 4690</price>
+        <currencyId>RUR</currencyId>
+        <categoryId>1</categoryId>
+        <picture>undefined</picture>
+      </offer>
+  </offers>
+</shop>
+</yml_catalog>
